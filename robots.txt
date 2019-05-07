@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eozoishie.apiplatform.cloud/sitemap.xml
